@@ -11,8 +11,8 @@ Utilizes Spring WebFlux's ServerRequest for seamless integration with reactive w
 Customizable to handle complex scenarios and validations.
 
 ## Requirements
-Java 17 or higher
-Spring WebFlux
+- Java 17 or higher
+- Spring WebFlux
 
 ## How to Use
 
